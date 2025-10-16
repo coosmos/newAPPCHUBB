@@ -1,3 +1,11 @@
+
+This is test with git
+
+
+There is another test and added more comments
+
+this change is by Prakriti Sinha
+
 hlww this is ashutosh : )
 Keshav This Side
 
@@ -5,12 +13,27 @@ Hi I am Himanshu from Amity University Noida.
 
 Hi I'm sujay, from VNRVJIET, Hyderabad.
 
+ HEAD
 hi this is yaswanth 
 
 Sanjana's changes
 
+ HEAD
+Hi am anvika from VNRVJIET,Hyderabad.
+
 Hi, Anuska here!
+
+ HEAD
+ HEAD
+Hi I'm Rakesh!
+
+Hi, Aryan here!
+83e76c002ec620166bd16eb0b13da4d05baf99a5
+ 45981386fce825f21414ba33610e79f05d752d59
+
+Hi I'm Rakesh!
 
 Hi, Aryan here!
 hello I'm Pranitha
 New branch added
+ dfd285b2f7addbdf16edecddf986651f0f6f0ef1
