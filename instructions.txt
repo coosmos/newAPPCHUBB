@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 This is test with git
 
 
 There is another test and added more comments
 
 this change is by Prakriti Sinha
-=======
+
 hlww this is ashutosh : )
 Keshav This Side
 
