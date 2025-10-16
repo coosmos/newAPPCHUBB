@@ -29,6 +29,7 @@ Hi, Anuska here!
 Hi I'm Rakesh!
 
 Hi, Aryan here!
+<<<<<<< HEAD
 83e76c002ec620166bd16eb0b13da4d05baf99a5
  45981386fce825f21414ba33610e79f05d752d59
 
@@ -39,3 +40,8 @@ Hi, Aryan here!
 
 
 Armaan here
+=======
+Hi, Im pranitha 
+ 
+ 
+>>>>>>> 3f2875ce733eea6d13cc9f98a6497dc4d877f71e
