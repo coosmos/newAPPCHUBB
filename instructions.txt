@@ -1,6 +1,23 @@
+<<<<<<< HEAD
 This is test with git
 
 
 There is another test and added more comments
 
 this change is by Prakriti Sinha
+=======
+hlww this is ashutosh : )
+Keshav This Side
+
+Hi I am Himanshu from Amity University Noida.
+
+Hi I'm sujay, from VNRVJIET, Hyderabad.
+
+hi this is yaswanth 
+
+Sanjana's changes
+
+Hi, Anuska here!
+
+Hi, Aryan here!
+>>>>>>> 83e76c002ec620166bd16eb0b13da4d05baf99a5
