@@ -19,8 +19,6 @@ Sanjana's changes
 
 Hi, Anuska here!
 
-<<<<<<< HEAD
 Hi I'm Rakesh!
-=======
+
 Hi, Aryan here!
->>>>>>> 83e76c002ec620166bd16eb0b13da4d05baf99a5
